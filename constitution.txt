@@ -1,0 +1,291 @@
+-=Constitution of Les Laboratoires Foulab=-
+
+-=Preamble and Definition of Terms=-
+
+   1. Throughout this document, the terms “we”, “us”, “the organization”, and “Foulab” are used to refer exclusively to Les Laboratoires Foulab.
+
+   2. The "Constitution", or "Foulab Constitution", refers to the present document.
+
+   3. A “Subscriber” is anyone who has payed all required membership fees to Foulab, and has not been explicitly removed from the organization with due process, as described in Article III.
+
+   4. A “Banned Person” is anyone, explicitly and through due process, forbidden to obtain membership or access to Foulab resources, including those which are otherwise accessible to the public, in perpetuity, as described in Article III.
+
+   5. A “Non-Subscriber“ is anyone who has not paid membership fees to Foulab, or defaulted on the payment of such fees.
+
+   6. A "Founding Member" is anyone that has paid membership fees since the first collection in September 2008.
+
+   7. “Members” are the governing body of Foulab, representing Foulab as a legal entity as described in Article IV.
+
+   8. "Officers" and "Administrators" are Members with special roles within the organization as described in Article IV.
+
+   9. An "Auditor" is a Foulab Member appointed by Members to review the integrity of Foulab's finances.
+
+  10. The “Facility”, “Building” or “Foulab Facility” is any space leased, owned, or otherwise used by Foulab for the purpose of providing services to it's Members and Subscribers, as outlined in Article II.
+
+  11. The term “Signing Authority” refers to the ability to enter a legal contract on behalf of Foulab.
+
+  12. The “Legal Age” is the age where a natural person is considered to be a legal adult in the province of Quebec.
+
+  13. The term “Minor” refers to a natural person of less than legal age in the province of Quebec. 
+
+
+-=Copyright Notice=-
+
+   1. This document is released under The Creative Commons ShareAlike 2.5 Canada license.
+   2. To obtain an up-to-date version of this document, please contact Foulab. An electronic copy will be provided to you free of charge. 
+
+
+-=Table of Contents=-
+
+Preamble
+
+Definition of Terms
+
+Table of Contents
+
+Article I: Name of the Organization
+
+Article II: Statement of Purpose
+
+Article III: Subscribers
+
+Article IV: Members, Administrators, and Officers
+
+Article V: Finances
+
+Article VI: Amendments, Bylaws, and Meetings
+
+-=Article I: Name of the Organization=-
+
+1. The organization described in the present document is named Les Laboratoires Foulab.
+
+
+-=Article II: Statement of Purpose=-
+
+1. The goal of Foulab is to provide its Members an environment and resources that allow them to exchange knowledge, ideas, and explore new technologies.
+
+2. To this end, the organization shall:
+
+    2.1 Arrange a space which allows its Members and Subscribers to collaborate 
+
+    2.2 Organize regular meetings for Members 
+
+-=Article III: Subscribers=-
+
+1. All natural persons, with the exception of persons banned from the organization, may become Subscribers of Foulab.
+
+2. Any natural person of legal age who pays the membership fees required by Foulab may become a Subscriber.
+
+    2.1. Any Subscriber who defaults on payment of Subscription fees immediately becomes a Non-Subscriber, and loses Subscriber status and access to all Foulab resources provided exclusively to Subscribers. This person may attend public events organized by Foulab. 
+
+    2.2. Subscription fees grant one full month of access to Foulab services and facilities. 
+
+    2.4. For a Minor to become a Subscriber, written permission of their legal guardian is required. 
+
+    2.5. Minors may hold any position in Foulab except those with Signing Authority. 
+
+3. Subscribers may access the Foulab Facility and resources, so long as a Member is present to supervise, and they do not engage in inappropriate activities.
+
+    3.1. The supervising Member or Members are responsible for deciding what constitutes inappropriate behavior. 
+
+    3.2. Members may permit Non-Subscribers to be admitted in the facility at their sole discretion. 
+
+4. All Members and Subscribers have the right to attend the General Assembly and vote in General Elections, as described in Article VI, Section 8.
+
+    4.1 Other than the conditions described in Article IV, Section 9.2.4.1, Subscribers only have access to official meetings at the discretion of the Members present. Subscribers must not prevent the meeting from proceeding in an orderly fashion. 
+
+5. Members have all the rights and responsibilities Subscribers do, and have additional rights and responsibilities as described in Article IV and elsewhere..
+
+
+-=Article IV: Members, Administrators, and Officers=-
+
+1. Members
+
+    1.1. Upon ratification of this Constitution, Members are constituted of the Founding Members of Foulab. 
+
+    1.2. New Members are selected by current Members at any official meeting by 2/3 majority and 50% quorum. 
+
+    1.3. Members shall meet in official capacity at least every 3 months. 
+
+2. Administrators
+
+    2.1. Administrators are elected once a year at a General Election, one month after the General Assembly. 
+
+    2.2. The administrative positions are President, Vice President, Treasurer and Secretary. 
+
+    2.3. The President, Vice President, Treasurer have Signing Authority. 
+
+    2.4. Only Members may become candidates for administrative positions. 
+
+    2.5. Members and Subscribers will vote for each position, elections are by simple majority. 
+
+3. Officers
+
+    3.1. Officers are selected by and from Members. 
+
+    3.2. Officers can be demoted from their role at any time by a decision of the majority of Members, or with a petition of three quarters of Subscribers (minimum 10). 
+
+4. The responsibilities of the President of Foulab are:
+
+    4.1. To chair all formal meetings, 
+
+    4.2. The President has Signing Authority on financial matters along with the Vice President and Treasurer as described in Article IV, Sections 5 and 6, 
+
+    4.3 To hold the activities of Foulab to its Constitution. 
+
+5. The responsibilities of the Vice President of Foulab are:
+
+    5.1. To chair meetings in the absence of the President, 
+
+    5.2. The Vice President has Signing Authority on financial matters along with the President and Treasurer as described in Article IV, Sections 4 and 6. 
+
+6. The responsibilities of the Treasurer are:
+
+    6.1 To keep proper records of all financial transactions Foulab enters, 
+
+    6.2 To execute financial transactions approved by Members, possessing Signing Authority alongside the President and Vice President as described in Article IV Sections 4 and 5. 
+
+    6.3 To keep an up to date record of Foulab assets. 
+
+7. The responsibilities of the Secretary are:
+
+    7.1. To maintain an up to date list of current Members and Subscribers. 
+
+    7.2. To maintain a list of equipment on loan to Foulab, and who it belongs to. 
+
+8. Impeachment can occur when a plebiscite finds that a two thirds majority of Subscribers (minimum 20), with a two-thirds quorum, is in favor of impeaching a particular Administrator, or if a simple majority of both Members and Subscribers are in favor of the impeachment. A two thirds quorum applies to both groups. Members are to appoint an immediate replacement who shall accept the duties of the impeached individual in interim, who retains Member status. An election to properly fill the position is immediately initiated.
+
+    8.1. The impeachment process can be initiated at any time by any Member or Subscriber. 
+
+    8.2. Members shall pass no law to prevent the impeachment process. 
+
+    8.3. The impeachment vote shall be announced at least two weeks before it takes place. 
+
+9. Members may ban any Non-Subscriber, Subscriber or Member, as well as revoke or refuse Subscriber or Member status from any person. This can be done at any time and for any reason, without refund of any fees, given that a two-thirds majority of Members are in favor of the motion. A two thirds Member quorum is required for the motion to be voted upon.
+
+    9.1. A Banned Person loses access to all resources provided by Foulab, including those otherwise accessible to the public. The sole recourse of a Banned Person is the appeal process described in Article IV, Section 9.2. If they are a Non-Subscriber, no appeal process is available, and the decision is final. 
+
+    9.2. A Banned Person has the right to appeal the decision one time, within two months of the decision, after which the decision is final. 
+
+        9.2.1. The appeal process is initiated by announcing, in writing, the intention to appeal to the President and the Secretary of Foulab. 
+
+        9.2.2. Through means of a plebiscite, subject to the two month deadline to complete an appeal process, the Banned Person must receive at least the support of 50% of Foulab Members and Subscribers, with a quorum of 50%, to continue the appeal process. 
+
+        9.2.3. Upon meeting the conditions outlined in Article IV, Section 9.2.2, the Banned Person is requested to provide to the President and Secretary, in writing and within the 2 month deadline, any evidence they feel is relevant to their case. 
+
+            9.2.3.1. The submitted document is limited to 10,000 words or twenty pages, whichever is less. 
+
+        9.2.4. Upon receiving this information, Members will vote on the status of the Banned Person. Two thirds majority with a minimum quorum of two thirds of Members is needed for the ban to be removed, in which case the Banned Person becomes a Non-Subscriber and is welcome to apply for membership again. Otherwise the person remains banned and no further appeals will be entertained. 
+
+        9.2.4.1. The Banned Person may attend the relevant portion of the meeting where the vote to uphold their ban occurs, and in doing so is subject to the regulations concerning the behavior of Subscribers at Member meetings as outlined in Article III Section 4.1. 
+
+        9.2.5. Members may pass no law that removes the right of a Banned Person to an appeal process to which Members and Subscribers may bear witness. 
+
+
+-=Article V: Finances=-
+
+1. Membership fees are subject to review. Any change requires a 2/3 vote of Members with 50% quorum, and one month's notice given to all Members and Subscribers concerning the new fees.
+
+    1.1. Members and Subscribers who purchased membership in advance shall be refunded or charged the difference. 
+
+2. Any and all raised funds, through membership or otherwise, are to be accounted for with the Treasurer within 1 week and deposited into the Foulab bank account within one month of their collection.
+
+3. Foulab funds are to be withdrawn only with two of the three signatures of the President, Vice President, and Treasurer.
+
+4. Only Administrators with Signing Authority may deposit funds.
+
+6. Dissolution of Foulab can occur given a 3/4 majority of Members in favor, with a 3/4 quorum.
+
+    6.1. Upon dissolution, all equipment owned by Foulab is to be sold via internal auction, then by Ebay auction. All funds raised shall first be used to pay off any debts. Equipment on loan is to be returned to the owners. 
+
+    6.2. All remaining funds will be used to reimburse the last month of membership for all Members and Subscribers, as well as any membership fees payed in advance. 
+
+    6.3. All remaining funds will then be donated to a charitable or non profit organization. 
+
+    6.4. All Membership and Subscription status is canceled, and the President applies for official dissolution of Foulab. 
+
+7. The fiscal year of Foulab is the calendar year.
+
+
+-=Article VI: Amendments, Bylaws and Meetings=-
+
+1. Members shall pass no law preventing access to this document.
+
+2. Members may amend this Constitution, if a 3/4 majority is in favor of the amendment and a 3/4 quorum.
+
+3. Members may pass by-laws given that they do not explicitly contradict any element of the Constitution, that a 2/3 majority or Members are in favor of the bylaw, with a quorum of 50%.
+
+4. General votes on the day-to-day operation of Foulab require simple majority, and 40% quorum. Unless specified elsewhere in the Constitution or bylaws, all decisions are by general votes.
+
+6. Any Subscriber or Member not satisfied with a decision made by Members may appeal the decision by means of a petition, within one month of the decision. If 40% or more of Subscribers and Members, sign a document detailing the reasons for their objection and present it to the Members at an official meeting, each Member present must read the document, and vote a second time on the matter, this time with a 2/3 majority and 40% quorum required for the decision to be upheld. A minimum of 10 Subscriber/Member signatures must be on this petition.
+
+    6.1. The petition shall be under 10,000 words or 20 pages, whichever is less, not including any signatures on the petition. 
+
+    6.2. If the original decision required quorum or greater than 2/3 majority, the more stringent condition applies. 
+
+    6.3. The decision to ban a person from Foulab may not be appealed through this method, the method outlined in Article III, Section 3.2 is to be used instead. 
+
+7. For this Constitution to take effect, it must be ratified by 3/4 of Foulab's Founding Members.
+
+8. From the date of ratification, a General Assembly of Members must be held yearly. The purpose of this assembly is for Members interested in becoming Administrators to announce their candidacy.
+
+    8.1 One month after the General Assembly, the General Election is called. 
+
+
+-=Potential Bylaws to Consider, and Unresolved Issues=-
+
+X. A new member is encouraged to present or teach at a public or private Foulabs conference within the first two months of membership. If a member does, they will be eligible to receive a discount on the next month of membership.
+
+V. The responsibilities of the Minister of Internal Affairs are:
+
+    V. To promote events for members such as workshops, symposiums, conferences and parties. 
+
+    V. To receive minor suggestions and complaints from members and bring them up in meetings as relevant. 
+
+    V. Manages the lab schedule
+
+V. The responsibilities of the Minister of External Affairs are:
+
+    V. To organize events open to the public. 
+
+    X. To keep track of the use of guest passes. 
+
+    V. To interact with the press. 
+
+X. Any Member of the Administrative Council may run for an officer or Administrator position (I hate it when "elected" officials get acclaimed into office)
+
+X. The Administrative Council must, within reason, allow members present at the meeting to bring up any topics they wish to discuss at the end of the meeting. A minimum of 15 minutes will be allotted at the end of the meeting for this purpose.
+
+X. The Administrative Council may vote to issue extra guest passes to members. A member who requests extra guest passes is encouraged to provide information about their intended time of use, and the nature of the invited parties.
+
+X. The number of guest passes provided to members per month is 4.
+
+X. Members of the Administrative Council have more than four guest passes
+
+X. When does the General Assembly occur? Can it be called at other times than this time?
+
+X. The Administrative Council shall meet at least once a month, and all members of the Council shall be informed about the time and location of the meeting at least 7 days in advance by the Vice President.
+
+X. Minimum size for the Council? Just set the minimum to our starting size?
+
+X. Auditors are to be selected at the meeting of the Administrative Council one month before the General Assembly. They are elected from random subset of 33% of the membership. It is the duty of these individuals to review the financial transactions of Foulab for the previous year, and report any discrepancies they have discovered to the Administrative Council before the next election (this is a 2 month span).
+
+    X. Make sure to edit the preamble to refer to any bylaw passed concerning auditors. 
+
+X. In Article VI, the Council can edit the constitution without any vote from the general members. Is this unusual, permissible, or excellent?
+
+X. The mailing list may be used, within reason, for a member to announce that they wish to organize a plebiscite for impeachment.
+
+X. Upon initiating the appeal process, a banned person may request that Foulab, within reason, allow them to announce their intention to appeal using a medium operated by Foulab such as a mailing list, web site, or meeting. Such a request can be denied given a two thirds majority vote by the Administrative Council against the request.
+
+X. All members have the right to witness all formal meetings of the Administrative Council. However,they may not vote unless asked to by the Administrative Council, must remain orderly, and may not interrupt the proceedings of the meeting.
+
+X. Each decision may only be subject to one appeal at any given time, however if an appeal is rejected another one may begin. This is intended to allow dissatisfied members to review and update the document presented to the Council if they wish.
+
+X. The Administrative Council shall endeavor to provide a list of times the Foulab facility will be open to members, although it may be available to members at additional times not listed.
+
+    X. Every member receives a number of guest passes per month. These guest passes can be spent to admit non-members to the Foulab facility. These non-members may not use equipment belonging to Foulab. The intention of these passes is to allow interested parties to tour the Foulab facility. Each guess pass allows one non-member access to the facility for one day, at all times in the presence of the member that invited them. 
+
+        X. Members who admit guests are responsible for the actions of those guests. 
+
+
